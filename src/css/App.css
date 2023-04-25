@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: beige;
+    background-color: rgb(169, 245, 248);
     
 }
 
@@ -11,8 +11,16 @@ body {
     text-align: center;
 }
 
-.button {
-    background-color: rgb(10, 82, 177);
-    color: azure;
-    border-radius: 3px ;
+.table{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#boton{
+    margin-left: 15px;
+}
+
+#titulo{
+    margin-left: 465px;
 }
